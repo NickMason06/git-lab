@@ -73,4 +73,18 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-Answer 10:
+Answer 10: changes on git-hub were not reflected locally
+
+Answer 11: Trying to push before pulling the most recent commit returns the following error:
+
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/NickMason06/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes
+
+Answer 13: README.md
